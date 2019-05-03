@@ -17,6 +17,10 @@
   margin-top: 47px;
 }
 
+.aboutus {
+  height:120vh;
+}
+
 nav {
   width: 100vw;
 }
@@ -29,7 +33,7 @@ nav ul.nav-items {
   background-color: #333;
   position: fixed;
   top: 0;
-  width: 100vw; 
+  width: 100vw;
 }
 
 nav ul.nav-items p.brand {
@@ -63,7 +67,7 @@ nav ul.nav-items li.nav-item a:hover {
   background-color: #4CAF50;
 }
 
-.jumbotron {
+.jumbotron, .aboutus {
   text-align: center;
   padding-top: 150px;
   background-color: #91bcff;
@@ -84,6 +88,7 @@ nav ul.nav-items li.nav-item a:hover {
   display: inline-block;
   margin: 0 7vw 0 7vw;
   padding-top: 15px;
+  overflow: auto;
 }
 
 .card:hover {
@@ -96,4 +101,17 @@ nav ul.nav-items li.nav-item a:hover {
 
 .card p {
   height: 10vh;
+}
+
+.peoplecards{
+  width: inherit;
+  margin-top: 100px;
+  padding-bottom: 45px;
+}
+
+.peoplecards .card{
+  width: 18.5vw;
+  height: 18.5vw;
+  margin-top: 3vh;
+  margin-bottom: 3vh;
 }
