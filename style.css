@@ -101,6 +101,7 @@ nav ul.nav-items li.nav-item a:hover {
 
 .card p {
   height: 10vh;
+  padding: 0.5vw;
 }
 
 .peoplecards{
@@ -110,8 +111,8 @@ nav ul.nav-items li.nav-item a:hover {
 }
 
 .peoplecards .card{
-  width: 18.5vw;
-  height: 18.5vw;
+  width: 19vw;
+  height: 19.5vw;
   margin-top: 3vh;
   margin-bottom: 3vh;
 }
