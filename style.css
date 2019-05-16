@@ -104,6 +104,12 @@ nav ul.nav-items li.nav-item a:hover {
   padding: 0.5vw;
 }
 
+.mission{
+  margin-left: 8vw;
+  margin-right: 8vw;
+  margin-top: 2vh;
+}
+
 .peoplecards{
   width: inherit;
   margin-top: 100px;
@@ -111,8 +117,9 @@ nav ul.nav-items li.nav-item a:hover {
 }
 
 .peoplecards .card{
-  width: 19vw;
-  height: 19.5vw;
-  margin-top: 3vh;
-  margin-bottom: 3vh;
+  width: 20vw;
+  height: 13vw;
+  margin: 2.5vw;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
 }
