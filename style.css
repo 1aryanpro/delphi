@@ -95,7 +95,7 @@ nav ul.nav-items li.nav-item a:hover {
   box-shadow: 0 16px 32px 0 rgba(0,0,0,0.4);
 }
 
-.card > h4 {
+.card h4 {
   text-align: center;
 }
 
