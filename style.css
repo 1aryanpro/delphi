@@ -136,3 +136,7 @@ nav ul.nav-items li.nav-item a:hover {
   margin-top: 2vh;
   margin-bottom: 2vh;
 }
+
+.spacer {
+  width: 60px;
+}
