@@ -18,7 +18,7 @@
 }
 
 .aboutus {
-  height:120vh;
+  height:130vh;
 }
 
 nav {
@@ -110,17 +110,18 @@ nav ul.nav-items li.nav-item a:hover {
   margin-top: 2vh;
 }
 
-#aboutus-howwestarted{
+.heading{
   margin-top: 14vh;
   margin-left: 13vw;
   margin-right: 15vw;
   text-align: left;
 }
+
 #aboutus-paragraph{
   margin-top: 2vh;
-  margin-left: 2vw;
+  margin-left: 15vw;
+  margin-right: 15vw;
   text-align: left;
-  /*text-indent: 50px;*/
 }
 
 .peoplecards{
