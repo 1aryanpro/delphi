@@ -124,13 +124,13 @@ nav ul.nav-items li.nav-item a:hover {
   text-align: left;
 }
 
-.peoplecards{
+.peoplecards {
   width: inherit;
   margin-top: 100px;
   padding-bottom: 45px;
 }
 
-.peoplecards .card{
+.peoplecards .card {
   width: 20vw;
   height: 13vw;
   margin: 2.5vw;
@@ -141,23 +141,37 @@ nav ul.nav-items li.nav-item a:hover {
 .spacer {
   width: 60px;
 }
-<<<<<<< HEAD
 
 .faq-card {
-  margin-top: 30px;
-  text-align: left;
+  margin-top: 18.5vh;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.button {
+  border: solid;
+  margin: 3vh;
+  margin-left: 3vw;
+  margin-right: 3vw;
+  padding: 1vh;
+  border-color: #4CAF50;
+  border-radius: 1vh;
 }
 
 .faq-card .q {
-  margin-top: 14vh;
+  margin-top: 7vh;
   margin-left: 13vw;
-  margin-right: 15vw;
+  margin-right: 13vw;
   text-align: left;
 }
 
 .faq-card .ans {
   margin-top: 2vh;
-  margin-left: 2vw;
+  margin-left: 13vw;
+  margin-right: 13vw;
   text-align: left;
 }
 =======
