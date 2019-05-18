@@ -174,5 +174,17 @@ a {
   margin-right: 13vw;
   text-align: left;
 }
+
+.footer {
+  position: fixed;
+  background-color: #4CAF50;
+  left: 0px;
+  bottom: 0px;
+  color: white;
+  width: 100vw;
+  padding-top: 2.5vh;
+  padding-bottom: 3vh;
+  margin: 0px;
+}
 =======
 >>>>>>> e2c5ed320a60c3bcd792c11be1fd762946d87baf
