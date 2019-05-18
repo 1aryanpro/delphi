@@ -186,5 +186,10 @@ a {
   padding-bottom: 3vh;
   margin: 0px;
 }
+
+.email {
+  color: white;
+  text-decoration: underline;
+}
 =======
 >>>>>>> e2c5ed320a60c3bcd792c11be1fd762946d87baf
