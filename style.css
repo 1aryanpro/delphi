@@ -12,15 +12,14 @@
     font-family: "roboto", sans-serif;
 }
 
-.fs {
+.fs{
   height: 85vh;
   margin-top: 47px;
 }
 
-.aboutus .fs{
-  padding-top: 3vh;
-  padding-bottom: 3vh;
+div.aboutus{
   background-color: #f2f2f2;
+  overflow: scroll;
 }
 
 nav {
@@ -69,7 +68,6 @@ nav ul.nav-items li.nav-item a:hover {
   background-color: #4CAF50;
 }
 
-/*.jumbotron, .aboutus {*/
 .jumbotron{
   text-align: center;
   padding-top: 150px;
@@ -197,4 +195,12 @@ a {
 
 .faq {
   padding-bottom: 10vh;
+}
+
+.values{
+  padding-bottom: 10vh;
+  text-align: left;
+  margin-top: 2vh;
+  margin-left: 15vw;
+  margin-right: 7vw;
 }
