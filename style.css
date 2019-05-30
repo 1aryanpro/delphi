@@ -191,3 +191,7 @@ a {
   color: white;
   text-decoration: underline;
 }
+
+.faq {
+  padding-bottom: 10vh;
+}
