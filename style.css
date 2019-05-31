@@ -204,3 +204,7 @@ a {
   margin-left: 15vw;
   margin-right: 7vw;
 }
+
+#person a{
+  color:#333;
+}
